@@ -1,0 +1,99 @@
+﻿<Window x:Name="MainWindow1" x:Class="CrystalCloudScanner2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrystalCloudScanner2"
+        mc:Ignorable="d"
+        Title="CrystalCloudScanner" Height="431" Width="750" Icon="shield.png" Background="White" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" FontFamily="Segoe UI Light">
+    <Grid Background="White">
+        <Grid x:Name="ScanFileGrid" HorizontalAlignment="Left" Height="311" VerticalAlignment="Top" Width="744" Margin="0" Visibility="Hidden">
+            <Label x:Name="label4_Copy" Content="Crystal Cloud Scanner : Сканування Файлів" HorizontalAlignment="Left" VerticalAlignment="Top" Width="744" FontSize="36" Foreground="#FF141515" Background="#FFF3F3F3"/>
+            <Label x:Name="label2" Content="Вкажіть шлях до файлу" HorizontalAlignment="Left" Margin="2,62,0,0" VerticalAlignment="Top" FontSize="24"/>
+            <TextBox x:Name="textBox5" HorizontalAlignment="Left" Height="36" Margin="254,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="470" FontSize="24" UndoLimit="200"/>
+            <Button x:Name="button" Content="Відкрити" HorizontalAlignment="Left" Margin="10,109,0,0" VerticalAlignment="Top" Width="360" FontSize="24" Background="#FF5CB1F7" Foreground="White" Height="42" VerticalContentAlignment="Stretch" Click="button_Click"/>
+            <Button x:Name="button_Copy" Content="Далі" HorizontalAlignment="Left" Margin="365,109,0,0" VerticalAlignment="Top" Width="360" FontSize="24" Background="#FF5CB1F7" Foreground="White" Height="42" VerticalContentAlignment="Stretch" Click="button_Copy_Click"/>
+            <Grid x:Name="ScanFileResultsGrid" HorizontalAlignment="Left" Height="145" Margin="10,156,0,0" VerticalAlignment="Top" Width="724" Visibility="Hidden">
+                <Label x:Name="label2_Copy" Content="0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24" Width="46" Grid.ColumnSpan="2"/>
+                <Label x:Name="label2_Copy1" Content="сканерами був перевірений файл" HorizontalAlignment="Left" Margin="51,0,0,0" VerticalAlignment="Top" FontSize="24" Width="363"/>
+                <Label x:Name="label2_Copy2" Content="0" HorizontalAlignment="Left" Margin="0,42,0,0" VerticalAlignment="Top" FontSize="24" Width="46" Grid.ColumnSpan="2"/>
+                <Label x:Name="label2_Copy3" Content="сканер(ів) вважає(ють) файл злобливим" HorizontalAlignment="Left" Margin="51,42,0,0" VerticalAlignment="Top" FontSize="24" Width="440" Grid.ColumnSpan="2"/>
+                <Label x:Name="label2_Copy4" Content=" - дата останнього сканування" HorizontalAlignment="Left" Margin="0,84,0,0" VerticalAlignment="Top" FontSize="24" Width="714" Grid.ColumnSpan="2"/>
+                <Label x:Name="label2_Copy5" Content="Детальна інформація" HorizontalAlignment="Left" Margin="491,0,0,0" VerticalAlignment="Top" FontSize="24" Width="233" Foreground="#FF152BB4" MouseEnter="label2_Copy5_MouseEnter" MouseLeave="label2_Copy5_MouseLeave" MouseLeftButtonDown="label2_Copy5_MouseLeftButtonDown" Grid.ColumnSpan="2"/>
+            </Grid>
+        </Grid>
+        <Grid x:Name="ScanURLGrid" HorizontalAlignment="Left" Height="311" VerticalAlignment="Top" Width="744" Margin="0" Visibility="Hidden">
+            <Label x:Name="label_Copy5" Content="Crystal Cloud Scanner : Сканування URL" HorizontalAlignment="Left" VerticalAlignment="Top" Width="744" FontSize="36" Foreground="#FF141515" Background="#FFF3F3F3"/>
+            <Label x:Name="label3" Content="Вкажіть URL адресу" HorizontalAlignment="Left" Margin="1,65,0,0" VerticalAlignment="Top" FontSize="24"/>
+            <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="36" Margin="238,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="365" FontSize="24" UndoLimit="203"/>
+            <Grid x:Name="ScanURLResultsGrid" HorizontalAlignment="Left" Height="145" Margin="10,156,0,0" VerticalAlignment="Top" Width="724" Visibility="Hidden">
+                <Label x:Name="label2_Copy10" Content="0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24" Width="46"/>
+                <Label x:Name="label2_Copy11" Content="сканерами був перевірений сайт" HorizontalAlignment="Left" Margin="51,0,0,0" VerticalAlignment="Top" FontSize="24" Width="354"/>
+                <Label x:Name="label2_Copy12" Content="0" HorizontalAlignment="Left" Margin="0,42,0,0" VerticalAlignment="Top" FontSize="24" Width="46"/>
+                <Label x:Name="label2_Copy13" Content="сканер(ів) вважає(ють) сайт злобливим" HorizontalAlignment="Left" Margin="51,42,0,0" VerticalAlignment="Top" FontSize="24" Width="440"/>
+                <Label x:Name="label2_Copy14" Content=" - дата останнього сканування" HorizontalAlignment="Left" Margin="0,84,0,0" VerticalAlignment="Top" FontSize="24" Width="714"/>
+                <Label x:Name="label2_Copy15" Content="Детальна інформація" HorizontalAlignment="Left" Margin="491,0,0,0" VerticalAlignment="Top" FontSize="24" Width="233" Foreground="#FF152BB4" MouseEnter="label2_Copy15_MouseEnter" MouseLeave="label2_Copy15_MouseLeave" MouseLeftButtonDown="label2_Copy15_MouseLeftButtonDown"/>
+            </Grid>
+            <Button x:Name="ScanURLButton" Content="Далі" HorizontalAlignment="Left" Margin="610,71,0,0" VerticalAlignment="Top" Width="115" FontSize="24" Background="#FF5CB1F7" Foreground="White" Height="36" VerticalContentAlignment="Stretch" Click="ScanURLButton_Click"/>
+        </Grid>
+        <Grid x:Name="IPInfoGrid" HorizontalAlignment="Left" Height="311" VerticalAlignment="Top" Width="744" Margin="0" Visibility="Hidden">
+            <Label x:Name="label_Copy6" Content="Crystal Cloud Scanner : Інформація про IP адр." HorizontalAlignment="Left" VerticalAlignment="Top" Width="744" FontSize="36" Foreground="#FF141515" Background="#FFF3F3F3"/>
+            <Label x:Name="label4" Content="Вкажіть IP адресу" HorizontalAlignment="Left" Margin="2,65,0,0" VerticalAlignment="Top" FontSize="24"/>
+            <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="36" Margin="239,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360" FontSize="24" UndoLimit="200"/>
+            <Button x:Name="DaleeIPButton" Content="Далі" HorizontalAlignment="Left" Margin="604,71,0,0" VerticalAlignment="Top" Width="115" FontSize="24" Background="#FF5CB1F7" Foreground="White" Height="36" VerticalContentAlignment="Stretch" Click="DaleeIPButton_Click" RenderTransformOrigin="0.435,0.528"/>
+            <Grid x:Name="IPInfoResultsGrid" HorizontalAlignment="Left" Height="145" Margin="2,156,0,0" VerticalAlignment="Top" Width="724" Visibility="Hidden">
+                <Label x:Name="label3_Copy11" Content="Країна: " HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24" Width="339"/>
+                <Label x:Name="label3_Copy13" Content="Власник: " HorizontalAlignment="Left" Margin="0,42,0,0" VerticalAlignment="Top" FontSize="24" Width="714"/>
+            </Grid>
+        </Grid>
+        <Grid x:Name="DomainInfoGrid" HorizontalAlignment="Left" Height="311" VerticalAlignment="Top" Width="744" Margin="0" Visibility="Hidden">
+            <Button x:Name="DaleeDomainButton" Content="Далі" HorizontalAlignment="Left" Margin="604,67,0,0" VerticalAlignment="Top" Width="115" FontSize="24" Background="#FF5CB1F7" Foreground="White" Height="36" VerticalContentAlignment="Stretch" Click="DaleeDomainButton_Click" RenderTransformOrigin="0.435,0.528"/>
+            <Label x:Name="label_Copy7" Content="Crystal Cloud Scanner : Інформація про домен" HorizontalAlignment="Left" VerticalAlignment="Top" Width="744" FontSize="36" Foreground="#FF141515" Background="#FFF3F3F3"/>
+            <Label x:Name="label5" Content="Вкажіть домен" HorizontalAlignment="Left" Margin="1,61,0,0" VerticalAlignment="Top" FontSize="24"/>
+            <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="36" Margin="238,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="361" FontSize="24" UndoLimit="200"/>
+            <Grid x:Name="DomainInfoResultsGrid" HorizontalAlignment="Left" Height="184" Margin="0,117,0,0" VerticalAlignment="Top" Width="724" Visibility="Hidden">
+                <Label x:Name="label4_Copy11" Content="ip адреса:" HorizontalAlignment="Left" Margin="0,6,0,0" VerticalAlignment="Top" FontSize="24" Width="339"/>
+                <Label x:Name="label4_Copy13" Content="Організація:" HorizontalAlignment="Left" Margin="0,48,0,0" VerticalAlignment="Top" FontSize="24" Width="683"/>
+                <Label x:Name="label4_Copy1" Content="Країна: " HorizontalAlignment="Left" Margin="0,90,0,0" VerticalAlignment="Top" FontSize="24" Width="339"/>
+                <Label x:Name="label4_Copy2" Content="Місто:" HorizontalAlignment="Left" Margin="0,132,0,0" VerticalAlignment="Top" FontSize="24" Width="339"/>
+                <Label x:Name="label4_Copy3" Content="Категорії: " HorizontalAlignment="Left" Margin="344,6,0,0" VerticalAlignment="Top" FontSize="24" Width="339"/>
+            </Grid>
+        </Grid>
+        <Grid x:Name="SettingsGrid" HorizontalAlignment="Left" Height="311" VerticalAlignment="Top" Width="744" Margin="0" Visibility="Hidden">
+            <Label x:Name="label_Copy8" Content="Crystal Cloud Scanner : Параметри" HorizontalAlignment="Left" VerticalAlignment="Top" Width="744" FontSize="36" Foreground="#FF141515" Background="#FFF3F3F3"/>
+            <Label x:Name="label6" Content="Вы можете вказати свій ключ api :" HorizontalAlignment="Left" Margin="3,62,0,0" VerticalAlignment="Top" FontSize="24" Height="42" Width="381"/>
+            <TextBox x:Name="textBox4" HorizontalAlignment="Left" Height="36" Margin="375,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="239" FontSize="24" UndoLimit="200"/>
+            <Image x:Name="image7" HorizontalAlignment="Left" Height="32" Margin="10,109,0,0" VerticalAlignment="Top" Width="32" Source="danger.png"/>
+            <Label x:Name="label6_Copy" Content="Залиште це поле порожнім, якщо не знаєте що таке &quot;ключ api&quot;" HorizontalAlignment="Left" Margin="40,104,0,0" VerticalAlignment="Top" FontSize="24" Height="43" Width="670"/>
+            <Label x:Name="label6_Copy1" Content="Версія програми: 2.0.0.0" HorizontalAlignment="Left" Margin="10,147,0,0" VerticalAlignment="Top" FontSize="24" Height="42" Width="483"/>
+            <Label x:Name="label6_Copy2" Content="Веб-сайт: " HorizontalAlignment="Left" Margin="10,189,0,0" VerticalAlignment="Top" FontSize="24" Height="42" Width="106"/>
+            <Label x:Name="label6_Copy3" Content="http://hft.zzz.com.ua" HorizontalAlignment="Left" Margin="116,189,0,0" VerticalAlignment="Top" FontSize="24" Height="42" Width="219" Foreground="#FF131BB4" MouseEnter="label6_Copy3_MouseEnter" MouseLeave="label6_Copy3_MouseLeave" MouseLeftButtonDown="label6_Copy3_MouseLeftButtonDown"/>
+            <Label x:Name="label6_Copy4" Content="Зображення взяті з сайту flaticon.com" HorizontalAlignment="Left" Margin="10,231,0,0" VerticalAlignment="Top" FontSize="24" Height="42" Width="429"/>
+            <Label x:Name="label6_Copy5" Content="With VirusTotal Api" HorizontalAlignment="Left" Margin="509,231,0,0" VerticalAlignment="Top" FontSize="24" Height="42" Width="201"/>
+            <Button x:Name="ChangeAPIkeyButton" Content="Зберег." HorizontalAlignment="Left" Margin="619,68,0,0" VerticalAlignment="Top" Width="110" FontSize="24" Background="#FF5CB1F7" Foreground="White" Height="36" VerticalContentAlignment="Stretch" RenderTransformOrigin="0.435,0.528" Click="ChangeAPIkeyButton_Click"/>
+        </Grid>
+        <Grid x:Name="MainImageGrid" HorizontalAlignment="Left" Height="402" VerticalAlignment="Top" Width="734">
+            <Image x:Name="image" HorizontalAlignment="Left" Width="744" Source="HeadImgOLite.jpg" Stretch="UniformToFill" Margin="-10,0,0,0"/>
+            <Label x:Name="label" Content="Crystal Cloud Scanner" HorizontalAlignment="Left" Margin="165,50,0,0" VerticalAlignment="Top" Width="343" FontSize="36" Foreground="White"/>
+            <Label x:Name="label_Copy" Content="2.0" HorizontalAlignment="Left" Margin="165,108,0,0" VerticalAlignment="Top" Width="343" FontSize="80" Foreground="White"/>
+        </Grid>
+        <Grid x:Name="ControlPanelGrid" HorizontalAlignment="Left" Height="121" Margin="0,264,0,0" VerticalAlignment="Top" Width="744">
+            <Image x:Name="image1" HorizontalAlignment="Left" Height="121" Margin="-4,7,0,-7" VerticalAlignment="Top" Width="744" Source="HeadImgOLite1.jpg" Stretch="UniformToFill"/>
+            <Image x:Name="ScanFileImg" HorizontalAlignment="Left" Height="64" Margin="36,10,0,0" VerticalAlignment="Top" Width="64" Source="ScanFile.png" MouseEnter="ScanFileImg_MouseEnter" MouseLeave="ScanFileImg_MouseLeave" MouseLeftButtonDown="ScanFileImg_MouseLeftButtonDown"/>
+            <Image x:Name="ScanURLImg" HorizontalAlignment="Left" Height="64" Margin="186,10,0,0" VerticalAlignment="Top" Width="64" Source="ScanURL.png" MouseEnter="ScanURLImg_MouseEnter_1" MouseLeave="ScanURLImg_MouseLeave_1" MouseLeftButtonDown="ScanURLImg_MouseLeftButtonDown"/>
+            <Image x:Name="IPInfoImg" HorizontalAlignment="Left" Height="64" Margin="336,10,0,0" VerticalAlignment="Top" Width="64" Source="IPAddress.png" MouseEnter="IPInfoImg_MouseEnter_1" MouseLeave="IPInfoImg_MouseLeave_1" OpacityMask="Black" MouseLeftButtonDown="IPInfoImg_MouseLeftButtonDown"/>
+            <Image x:Name="DomainInfoImg" HorizontalAlignment="Left" Height="64" Margin="486,10,0,0" VerticalAlignment="Top" Width="64" Source="DomainInfo.png" MouseEnter="DomainInfoImg_MouseEnter_1" MouseLeave="DomainInfoImg_MouseLeave_1" MouseLeftButtonDown="DomainInfoImg_MouseLeftButtonDown"/>
+            <Image x:Name="SettingsImg" HorizontalAlignment="Left" Height="64" Margin="636,10,0,0" VerticalAlignment="Top" Width="64" Source="settings.png" MouseEnter="SettingsImg_MouseEnter" MouseLeave="SettingsImg_MouseLeave" MouseLeftButtonDown="SettingsImg_MouseLeftButtonDown"/>
+            <Label x:Name="label_Copy1" Content="Сканувати файл" HorizontalAlignment="Left" Margin="6,79,0,0" VerticalAlignment="Top" FontSize="14" Width="130" Height="30" Foreground="#FFFFFBFB"/>
+            <Label x:Name="label_Copy2" Content="Сканувати URL&#xA; адресу" HorizontalAlignment="Left" Margin="156,79,0,-4" VerticalAlignment="Top" FontSize="14" Width="130" Height="46" Foreground="#FFFFFBFB"/>
+            <Label x:Name="label_Copy3" Content="Отримати інформа-&#xA;цію про IP адресу" HorizontalAlignment="Left" Margin="306,79,0,-4" VerticalAlignment="Top" FontSize="14" Width="134" Height="46" RenderTransformOrigin="0.678,0.441" Foreground="#FFFFFBFB"/>
+            <Label x:Name="label1" Content="Отримати інформа-&#xA;цію про домен" HorizontalAlignment="Left" Margin="456,79,0,-5" VerticalAlignment="Top" FontSize="14" Foreground="#FFFFFBFB" RenderTransformOrigin="0.409,0.345"/>
+            <Label x:Name="label1_Copy" Content="Параметри" HorizontalAlignment="Left" Margin="631,79,0,0" VerticalAlignment="Top" FontSize="14" Foreground="#FFFFFBFB"/>
+        </Grid>
+        <Grid x:Name="UpdateGrid" HorizontalAlignment="Left" Height="57" VerticalAlignment="Top" Width="734" Background="#FF2C84EE" Margin="0,-49,0,0">
+            <Label x:Name="label7" Content="Для вашої версії програми доступно оновлення" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Width="734" FontSize="25"/>
+            <Label x:Name="label7_Copy" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Width="734" FontSize="30" HorizontalContentAlignment="Center" Margin="0,50,0,-3" Height="10" Background="#FF155DB4"/>
+            <Button x:Name="button1" Content="Оновити" FontSize="20" Background="#FF5CB1F7" Foreground="White" HorizontalAlignment="Left" Margin="594,2,0,0" VerticalAlignment="Top" Width="130" Height="46" Click="button1_Click"/>
+        </Grid>
+    </Grid>
+</Window>

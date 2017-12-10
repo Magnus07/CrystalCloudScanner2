@@ -1,0 +1,45 @@
+E:\!\Programing\Next\C#\CrystalCloudScanner2\bin\Release\CrystalCloudScanner2.exe.config
+E:\!\Programing\Next\C#\CrystalCloudScanner2\bin\Release\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2\bin\Release\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2\bin\Release\xNet.dll
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Release\MainWindow.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Release\App.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Release\CrystalCloudScanner2_MarkupCompile.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Release\CrystalCloudScanner2_MarkupCompile.lref
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Release\MainWindow.baml
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Release\CrystalCloudScanner2.g.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Release\CrystalCloudScanner2.Properties.Resources.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Release\CrystalCloudScanner2.csproj.GenerateResource.Cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Release\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Release\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\bin\Release\CrystalCloudScanner2.exe.config
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Release\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Release\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\bin\Release\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\bin\Release\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\bin\Release\xNet.dll
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Release\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Release\MainWindow.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Release\App.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Release\CrystalCloudScanner2_MarkupCompile.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Release\CrystalCloudScanner2_MarkupCompile.lref
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Release\MainWindow.baml
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Release\CrystalCloudScanner2.g.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Release\CrystalCloudScanner2.Properties.Resources.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Release\CrystalCloudScanner2.csproj.GenerateResource.Cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Release\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\bin\Release\CrystalCloudScanner2.exe.config
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\bin\Release\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\bin\Release\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\bin\Release\xNet.dll
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Release\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Release\MainWindow.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Release\App.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Release\CrystalCloudScanner2_MarkupCompile.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Release\CrystalCloudScanner2_MarkupCompile.lref
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Release\MainWindow.baml
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Release\CrystalCloudScanner2.g.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Release\CrystalCloudScanner2.Properties.Resources.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Release\CrystalCloudScanner2.csproj.GenerateResource.Cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Release\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Release\CrystalCloudScanner2.pdb

@@ -1,0 +1,133 @@
+E:\!\Programing\Next\C#\CrystalCloudScanner2\bin\Debug\CrystalCloudScanner2.exe.config
+E:\!\Programing\Next\C#\CrystalCloudScanner2\bin\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2\bin\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2\bin\Debug\xNet.dll
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Debug\MainWindow.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Debug\App.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2_MarkupCompile.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2_MarkupCompile.lref
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Debug\MainWindow.baml
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.g.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.Properties.Resources.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.csproj.GenerateResource.Cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CCS 2Var2\bin\Debug\CrystalCloudScanner2.exe.config
+E:\!\Programing\Next\C#\CCS 2Var2\obj\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CCS 2Var2\obj\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CCS 2Var2\bin\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CCS 2Var2\bin\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CCS 2Var2\bin\Debug\xNet.dll
+E:\!\Programing\Next\C#\CCS 2Var2\obj\Debug\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+E:\!\Programing\Next\C#\CCS 2Var2\obj\Debug\MainWindow.g.cs
+E:\!\Programing\Next\C#\CCS 2Var2\obj\Debug\App.g.cs
+E:\!\Programing\Next\C#\CCS 2Var2\obj\Debug\CrystalCloudScanner2_MarkupCompile.cache
+E:\!\Programing\Next\C#\CCS 2Var2\obj\Debug\CrystalCloudScanner2_MarkupCompile.lref
+E:\!\Programing\Next\C#\CCS 2Var2\obj\Debug\MainWindow.baml
+E:\!\Programing\Next\C#\CCS 2Var2\obj\Debug\CrystalCloudScanner2.g.resources
+E:\!\Programing\Next\C#\CCS 2Var2\obj\Debug\CrystalCloudScanner2.Properties.Resources.resources
+E:\!\Programing\Next\C#\CCS 2Var2\obj\Debug\CrystalCloudScanner2.csproj.GenerateResource.Cache
+E:\!\Programing\Next\C#\CCS 2Var3\bin\Debug\CrystalCloudScanner2.exe.config
+E:\!\Programing\Next\C#\CCS 2Var3\obj\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CCS 2Var3\obj\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CCS 2Var3\bin\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CCS 2Var3\bin\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CCS 2Var3\bin\Debug\xNet.dll
+E:\!\Programing\Next\C#\CCS 2Var3\obj\Debug\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+E:\!\Programing\Next\C#\CCS 2Var3\obj\Debug\MainWindow.g.cs
+E:\!\Programing\Next\C#\CCS 2Var3\obj\Debug\App.g.cs
+E:\!\Programing\Next\C#\CCS 2Var3\obj\Debug\CrystalCloudScanner2_MarkupCompile.cache
+E:\!\Programing\Next\C#\CCS 2Var3\obj\Debug\CrystalCloudScanner2_MarkupCompile.lref
+E:\!\Programing\Next\C#\CCS 2Var3\obj\Debug\MainWindow.baml
+E:\!\Programing\Next\C#\CCS 2Var3\obj\Debug\CrystalCloudScanner2.g.resources
+E:\!\Programing\Next\C#\CCS 2Var3\obj\Debug\CrystalCloudScanner2.Properties.Resources.resources
+E:\!\Programing\Next\C#\CCS 2Var3\obj\Debug\CrystalCloudScanner2.csproj.GenerateResource.Cache
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\bin\Debug\CrystalCloudScanner2.exe.config
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\obj\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\obj\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\obj\Debug\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\obj\Debug\MainWindow.g.cs
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\obj\Debug\App.g.cs
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\obj\Debug\CrystalCloudScanner2_MarkupCompile.cache
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\obj\Debug\CrystalCloudScanner2_MarkupCompile.lref
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\bin\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\bin\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\bin\Debug\xNet.dll
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\obj\Debug\MainWindow.baml
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\obj\Debug\CrystalCloudScanner2.g.resources
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\obj\Debug\CrystalCloudScanner2.Properties.Resources.resources
+E:\!\Programing\Next\C#\CCS 2Var3 — копия\obj\Debug\CrystalCloudScanner2.csproj.GenerateResource.Cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\bin\Debug\CrystalCloudScanner2.exe.config
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\obj\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\obj\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\bin\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\bin\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\bin\Debug\xNet.dll
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\obj\Debug\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\obj\Debug\MainWindow.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\obj\Debug\App.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\obj\Debug\CrystalCloudScanner2_MarkupCompile.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\obj\Debug\CrystalCloudScanner2_MarkupCompile.lref
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\obj\Debug\MainWindow.baml
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\obj\Debug\CrystalCloudScanner2.g.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\obj\Debug\CrystalCloudScanner2.Properties.Resources.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия — копия\obj\Debug\CrystalCloudScanner2.csproj.GenerateResource.Cache
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\bin\Debug\CrystalCloudScanner2.exe.config
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.exe
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.pdb
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\obj\Debug\MainWindow.g.cs
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\obj\Debug\App.g.cs
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2_MarkupCompile.cache
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2_MarkupCompile.lref
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\bin\Debug\CrystalCloudScanner2.exe
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\bin\Debug\CrystalCloudScanner2.pdb
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\obj\Debug\MainWindow.baml
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.g.resources
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.Properties.Resources.resources
+C:\Users\Magnus\Desktop\CrystalCloudScanner2\obj\Debug\CrystalCloudScanner2.csproj.GenerateResource.Cache
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\bin\Debug\CrystalCloudScanner2.exe.config
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.exe
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.pdb
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\bin\Debug\CrystalCloudScanner2.exe
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\bin\Debug\CrystalCloudScanner2.pdb
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\obj\Debug\MainWindow.g.cs
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\obj\Debug\App.g.cs
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2_MarkupCompile.cache
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2_MarkupCompile.lref
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\obj\Debug\MainWindow.baml
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.g.resources
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.Properties.Resources.resources
+C:\Users\Magnus\Desktop\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.csproj.GenerateResource.Cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\bin\Debug\CrystalCloudScanner2.exe.config
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\bin\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\bin\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\bin\Debug\xNet.dll
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Debug\MainWindow.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Debug\App.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2_MarkupCompile.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2_MarkupCompile.lref
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Debug\MainWindow.baml
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.g.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.Properties.Resources.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2 — копия\obj\Debug\CrystalCloudScanner2.csproj.GenerateResource.Cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\bin\Debug\CrystalCloudScanner2.exe.config
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\bin\Debug\CrystalCloudScanner2.exe
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\bin\Debug\CrystalCloudScanner2.pdb
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\bin\Debug\xNet.dll
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Debug\CrystalCloudScanner2.csprojResolveAssemblyReference.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Debug\MainWindow.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Debug\App.g.cs
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Debug\CrystalCloudScanner2_MarkupCompile.cache
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Debug\CrystalCloudScanner2_MarkupCompile.lref
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Debug\MainWindow.baml
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Debug\CrystalCloudScanner2.g.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Debug\CrystalCloudScanner2.Properties.Resources.resources
+E:\!\Programing\Next\C#\CrystalCloudScanner2UKR\obj\Debug\CrystalCloudScanner2.csproj.GenerateResource.Cache
